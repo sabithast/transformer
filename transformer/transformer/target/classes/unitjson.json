@@ -1,0 +1,86 @@
+[
+  {
+    "unitnumber": 4,
+    "floornumber": 1,
+    "blocknumber": 1,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 5,
+    "floornumber": 1,
+    "blocknumber": 1,
+    "available": true,
+    "modelUuid": "7780ae3a-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 3,
+    "blocknumber": 1,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 4,
+    "blocknumber": 1,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 5,
+    "blocknumber": 1,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 3,
+    "blocknumber": 6,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 4,
+    "blocknumber": 6,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 5,
+    "floornumber": 4,
+    "blocknumber": 6,
+    "available": true,
+    "modelUuid": "7780ae3a-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 5,
+    "blocknumber": 6,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 3,
+    "blocknumber": 8,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 4,
+    "blocknumber": 8,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  },
+  {
+    "unitnumber": 4,
+    "floornumber": 5,
+    "blocknumber": 8,
+    "available": true,
+    "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+  }
+]

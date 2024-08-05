@@ -1,0 +1,127 @@
+[
+  {
+    "floors": [
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          },
+          {
+            "unitnumber": 5,
+            "available": true,
+            "modelUuid": "7780ae3a-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 1
+      },
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 3
+      },
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 4
+      },
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 5
+      }
+    ],
+    "blocknumber": 1
+  },
+  {
+    "floors": [
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 3
+      },
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          },
+          {
+            "unitnumber": 5,
+            "available": true,
+            "modelUuid": "7780ae3a-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 4
+      },
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 5
+      }
+    ],
+    "blocknumber": 6
+  },
+  {
+    "floors": [
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 3
+      },
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 4
+      },
+      {
+        "units": [
+          {
+            "unitnumber": 4,
+            "available": true,
+            "modelUuid": "6644235e-e2d1-4dcf-935f-7f00eeed182d"
+          }
+        ],
+        "floornumber": 5
+      }
+    ],
+    "blocknumber": 8
+  }
+]
